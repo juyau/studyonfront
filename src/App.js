@@ -1,9 +1,15 @@
 
 
+import './bootstrap.litera.css'
+
+import { Container } from 'react-bootstrap'
+
+import Home from './pages/Home/index'
+
 const App = () => {
   return (
     <>
-    <h1>welcome to study on</h1>
+    <Home></Home>
     </>
   );
 }
