@@ -1,17 +1,23 @@
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Provider } from "react-redux";
+import store from "./redux/store";
 
-
-import './bootstrap.litera.css'
-
-import { Container } from 'react-bootstrap'
-
-import Home from './pages/Home/index'
+import Home from "./pages/Home";
+import Course from "./pages/Course";
 
 const App = () => {
   return (
-    <>
-    <Home></Home>
-    </>
+    <Provider store={store}>
+      <Router>
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/course/:id" component={Course} />
+
+          {/* <Route component={NoMatch} /> */}
+        </Switch>
+      </Router>
+    </Provider>
   );
-}
+};
 
 export default App;

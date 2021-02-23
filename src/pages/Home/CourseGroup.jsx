@@ -10,17 +10,17 @@ const CourseGroup = ({ title, leftImg, topImg }) => {
           <Col md={3}>
             <Card.Subtitle className="mb-2 text-muted">{title}</Card.Subtitle>
           </Col>
-          <Col md={{ span: 2, offset: 7 }} className="ml-auto">
+          <Col md={{ span: 2, offset: 7 }}>
             <Card.Link href="#">More...</Card.Link>
           </Col>
         </Row>
         <Row>
           <Col md={3}>
-            <img src={leftImg} width="230" />
+            <img src={leftImg} width="240" />
           </Col>
           <Col>
             <Row className="ml-auto">
-              <img src={topImg} alt="" width="820" />
+              <img src={topImg} alt="" width="815" />
             </Row>
             <Row className="mt-3">
               <Col>

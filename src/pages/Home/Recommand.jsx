@@ -9,7 +9,9 @@ const Recommand = () => {
       <Card.Body>
         <Row>
           <Col md={3}>
-            <Card.Subtitle className="mb-2 text-muted">Recommand</Card.Subtitle>
+            <Card.Subtitle className="mb-2 text-muted">
+              <i class="fas fa-flag" aria-hidden="true"></i>&nbsp;Recommand
+            </Card.Subtitle>
           </Col>
           <Col md={{ span: 2, offset: 7 }} className="ml-auto">
             <Card.Link href="#">More...</Card.Link>

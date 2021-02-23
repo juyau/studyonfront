@@ -1,46 +1,35 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { connect } from "react-redux";
+import actions from "../../redux/actions";
+
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
-import Catalog from "./Catalog";
+import SearchBar from "../../components/SearchBar";
+import CategoryList from "../../components/CategoryList";
 import Recommand from "./Recommand";
 import CourseGroup from "./CourseGroup";
-import {
-  Carousel,
-  Container,
-  Button,
-  InputGroup,
-  FormControl,
-  Row,
-  Col,
-} from "react-bootstrap";
+import { Carousel, Container, Row, Col } from "react-bootstrap";
 
-const Home = () => {
+const Home = ({ category, loadCategoryList }) => {
+  useEffect(() => loadCategoryList(), []);
+
   return (
     <>
-      <Header></Header>
+      <Header />
+
+      <SearchBar />
 
       <main>
         <Container>
           <Row>
-            <Col md={{ span: 8, offset: 2 }}>
-              <InputGroup className="mb-3">
-                <FormControl
-                  placeholder="Search for courses"
-                  aria-label="Search for courses"
-                  aria-describedby="basic-addon2"
-                />
-                <InputGroup.Append>
-                  <Button variant="outline-secondary">Search</Button>
-                </InputGroup.Append>
-              </InputGroup>
+            <Col>
+              <CategoryList
+                category={category}
+                className="category"
+              ></CategoryList>
             </Col>
-          </Row>
 
-          <Row>
-            <Col md={{ span: 2 }}>
-              <Catalog></Catalog>
-            </Col>
-            <Col md={{ span: 10 }}>
+            <Col xl={10} lg={9} md={8}>
               <Carousel style={{ height: "420px" }}>
                 <Carousel.Item style={{ height: "420px" }}>
                   <img
@@ -66,10 +55,10 @@ const Home = () => {
               </Carousel>
             </Col>
           </Row>
+
           <Row>
             <Recommand />
           </Row>
-
           <Row>
             <CourseGroup
               title="Python Developer"
@@ -77,7 +66,6 @@ const Home = () => {
               topImg="./images/widget-ind-top.png"
             />
           </Row>
-
           <Row>
             <CourseGroup
               title="Java Backend Developer"
@@ -87,10 +75,13 @@ const Home = () => {
           </Row>
         </Container>
       </main>
+      {console.log("hello")}
 
       <Footer></Footer>
     </>
   );
 };
 
-export default Home;
+export default connect((state) => ({ category: state.category }), {
+  loadCategoryList: actions.categoryActions.loadCategoryList,
+})(Home);
