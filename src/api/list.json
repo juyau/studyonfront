@@ -1,0 +1,1395 @@
+{
+    "id": "1",
+    "name": "rootNode",
+    "label": "rootNode",
+    "parentid": "0",
+    "isshow": "1",
+    "orderby": 1,
+    "isleaf": "0",
+    "subCategoryList": [
+        {
+            "id": "1-1",
+            "name": "Front End",
+            "label": "Front End",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 1,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-1-1",
+                    "name": "HTML/CSS",
+                    "label": "HTML/CSS",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-2",
+                    "name": "JavaScript",
+                    "label": "JavaScript",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-3",
+                    "name": "jQuery",
+                    "label": "jQuery",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-4",
+                    "name": "ExtJS",
+                    "label": "ExtJS",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-5",
+                    "name": "AngularJS",
+                    "label": "AngularJS",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-6",
+                    "name": "ReactJS",
+                    "label": "ReactJS",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-7",
+                    "name": "Bootstrap",
+                    "label": "Bootstrap",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-8",
+                    "name": "Node.js",
+                    "label": "Node.js",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-9",
+                    "name": "Vue",
+                    "label": "Vue",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-1-10",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-1",
+                    "isshow": "1",
+                    "orderby": 10,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-2",
+            "name": "Mobile Developer",
+            "label": "Mobile Development",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 2,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-2-1",
+                    "name": "Wechat",
+                    "label": "Wechat",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-2",
+                    "name": "iOS",
+                    "label": "iOS",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-3",
+                    "name": "Mobile Game",
+                    "label": "Mobile Game",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-4",
+                    "name": "Swift",
+                    "label": "Swift",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-5",
+                    "name": "Android",
+                    "label": "Android",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-6",
+                    "name": "ReactNative",
+                    "label": "ReactNative",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-7",
+                    "name": "Cordova",
+                    "label": "Cordova",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-2-8",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-2",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-3",
+            "name": "Programming",
+            "label": "Programming",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 3,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-3-1",
+                    "name": "C/C++",
+                    "label": "C/C++",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-2",
+                    "name": "Java",
+                    "label": "Java",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-3",
+                    "name": ".NET",
+                    "label": ".NET",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-4",
+                    "name": "Objective-C",
+                    "label": "Objective-C",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-5",
+                    "name": "Golang",
+                    "label": "Golang",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-6",
+                    "name": "Python",
+                    "label": "Python",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-7",
+                    "name": "Ruby/Rails",
+                    "label": "Ruby/Rails",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-3-8",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-3",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-4",
+            "name": "Databases",
+            "label": "Databases",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 4,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-4-1",
+                    "name": "Oracle",
+                    "label": "Oracle",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-2",
+                    "name": "MySQL",
+                    "label": "MySQL",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-3",
+                    "name": "SQL Server",
+                    "label": "SQL Server",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-4",
+                    "name": "DB2",
+                    "label": "DB2",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-5",
+                    "name": "NoSQL",
+                    "label": "NoSQL",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-6",
+                    "name": "Mongo DB",
+                    "label": "Mongo DB",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-7",
+                    "name": "Hbase",
+                    "label": "Hbase",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-8",
+                    "name": "Datahouse",
+                    "label": "Datahouse",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-4-9",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-4",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-5",
+            "name": "Artificial Intelligence",
+            "label": "AI",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 5,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-5-1",
+                    "name": "ML learning",
+                    "label": "ML learning",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-5-2",
+                    "name": "Deep learning",
+                    "label": "Deep learning",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-5-3",
+                    "name": "Vioce Recognition",
+                    "label": "Vioce Recognition",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-5-4",
+                    "name": "Machine Vision",
+                    "label": "Machine Vision",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-5-5",
+                    "name": "NLP",
+                    "label": "NLP",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-5-6",
+                    "name": "Enhance learning",
+                    "label": "Enhance learning",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-5-7",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-5",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-6",
+            "name": "Big Data",
+            "label": "Big Data",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 6,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-6-1",
+                    "name": "Spark",
+                    "label": "Spark",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-2",
+                    "name": "Hadoop",
+                    "label": "Hadoop",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-3",
+                    "name": "OpenStack",
+                    "label": "OpenStack",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-4",
+                    "name": "Docker/K8S",
+                    "label": "Docker/K8S",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-5",
+                    "name": "Cloud Compute",
+                    "label": "Cloud Compute",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-6",
+                    "name": "Virtualize",
+                    "label": "Virtualize",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-7",
+                    "name": "Could",
+                    "label": "Could",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-8",
+                    "name": "ELK",
+                    "label": "ELK",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-6-9",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-6",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-7",
+            "name": "UI Design",
+            "label": "UI Design",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 7,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-7-1",
+                    "name": "Photoshop",
+                    "label": "Photoshop",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-2",
+                    "name": "3Dmax",
+                    "label": "3Dmax",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-3",
+                    "name": "Illustrator",
+                    "label": "Illustrator",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-4",
+                    "name": "Flash",
+                    "label": "Flash",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-5",
+                    "name": "Maya",
+                    "label": "Maya",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-6",
+                    "name": "AUTOCAD",
+                    "label": "AUTOCAD",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-7",
+                    "name": "UG",
+                    "label": "UG",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-8",
+                    "name": "SolidWorks",
+                    "label": "SolidWorks",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-9",
+                    "name": "CorelDraw",
+                    "label": "CorelDraw",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-10",
+                    "name": "InDesign",
+                    "label": "InDesign",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 10,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-11",
+                    "name": "Pro/Engineer",
+                    "label": "Pro/Engineer",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 11,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-12",
+                    "name": "Cinema 4D",
+                    "label": "Cinema 4D",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 12,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-13",
+                    "name": "3D Studio",
+                    "label": "3D Studio",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 13,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-14",
+                    "name": "After Effects（AE）",
+                    "label": "After Effects（AE）",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 14,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-16",
+                    "name": "Animation",
+                    "label": "Animation",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 16,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-17",
+                    "name": "Dreamweaver",
+                    "label": "Dreamweaver",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 17,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-18",
+                    "name": "Axure",
+                    "label": "Axure",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 18,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-7-19",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-7",
+                    "isshow": "1",
+                    "orderby": 19,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-8",
+            "name": "Game Design",
+            "label": "Game Design",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 8,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-8-1",
+                    "name": "Cocos",
+                    "label": "Cocos",
+                    "parentid": "1-8",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-8-2",
+                    "name": "Unity3D",
+                    "label": "Unity3D",
+                    "parentid": "1-8",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-8-3",
+                    "name": "Flash",
+                    "label": "Flash",
+                    "parentid": "1-8",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-8-4",
+                    "name": "SpriteKit 2D",
+                    "label": "SpriteKit 2D",
+                    "parentid": "1-8",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-8-5",
+                    "name": "Unreal",
+                    "label": "Unreal",
+                    "parentid": "1-8",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-8-6",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-8",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-9",
+            "name": "Internet of Things",
+            "label": "IoT",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 9,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-9-1",
+                    "name": "Wireless",
+                    "label": "Wireless",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-2",
+                    "name": "Electronics",
+                    "label": "Electronics",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-3",
+                    "name": "Arduino",
+                    "label": "Arduino",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-4",
+                    "name": "Sensors",
+                    "label": "Sensors",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-5",
+                    "name": "Intelligence",
+                    "label": "Intelligence",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-6",
+                    "name": "Driver",
+                    "label": "Driver",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-7",
+                    "name": "SCU",
+                    "label": "SCU",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-8",
+                    "name": "WinCE",
+                    "label": "WinCE",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-9",
+                    "name": "Embedded system",
+                    "label": "Embedded system",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-10",
+                    "name": "Internet of Things",
+                    "label": "IoT",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 10,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-9-11",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-9",
+                    "isshow": "1",
+                    "orderby": 11,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-10",
+            "name": "R&D Manage",
+            "label": "R&D Manage",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 10,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-10-1",
+                    "name": "Agile Development",
+                    "label": "Agile Development",
+                    "parentid": "1-10",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-10-2",
+                    "name": "Software Design",
+                    "label": "Software Design",
+                    "parentid": "1-10",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-10-3",
+                    "name": "Testing",
+                    "label": "Testing",
+                    "parentid": "1-10",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-10-4",
+                    "name": "R&D Manage",
+                    "label": "R&D Manage",
+                    "parentid": "1-10",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-10-5",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-10",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-11",
+            "name": "DevOps",
+            "label": "DevOps",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 11,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-11-1",
+                    "name": "Linux",
+                    "label": "Linux",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-2",
+                    "name": "Windows",
+                    "label": "Windows",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-3",
+                    "name": "UNIX",
+                    "label": "UNIX",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-4",
+                    "name": "Mac OS",
+                    "label": "Mac OS",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-5",
+                    "name": "Networking",
+                    "label": "Networking",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-6",
+                    "name": "Routing",
+                    "label": "Routing",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-7",
+                    "name": "Wireless",
+                    "label": "Wireless",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-8",
+                    "name": "Ngnix",
+                    "label": "Ngnix",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-9",
+                    "name": "Email Server",
+                    "label": "Email Server",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-11-10",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-11",
+                    "isshow": "1",
+                    "orderby": 10,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-12",
+            "name": "Product Manager",
+            "label": "Product Manager",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 12,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-12-1",
+                    "name": "UI/UX",
+                    "label": "UI/UX",
+                    "parentid": "1-12",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-12-2",
+                    "name": "Product Design",
+                    "label": "Product Design",
+                    "parentid": "1-12",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-12-3",
+                    "name": "Proto Design",
+                    "label": "Proto Design",
+                    "parentid": "1-12",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-12-4",
+                    "name": "UX",
+                    "label": "UX",
+                    "parentid": "1-12",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-12-5",
+                    "name": "Analyze",
+                    "label": "Analyze",
+                    "parentid": "1-12",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-12-6",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-12",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-13",
+            "name": "Office",
+            "label": "Office",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 13,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-13-1",
+                    "name": "Operation",
+                    "label": "Operation",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-2",
+                    "name": "Information",
+                    "label": "Information",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-3",
+                    "name": "Marketing",
+                    "label": "Marketing",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-4",
+                    "name": "Office/WPS",
+                    "label": "Office/WPS",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-5",
+                    "name": "Interview",
+                    "label": "Interview",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-6",
+                    "name": "Ecomm",
+                    "label": "Ecomm",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-7",
+                    "name": "CRM",
+                    "label": "CRM",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 7,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-8",
+                    "name": "ERP",
+                    "label": "ERP",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 8,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-13-9",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-13",
+                    "isshow": "1",
+                    "orderby": 9,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        },
+        {
+            "id": "1-14",
+            "name": "Information Security",
+            "label": "Information Security",
+            "parentid": "1",
+            "isshow": "1",
+            "orderby": 14,
+            "isleaf": "0",
+            "subCategoryList": [
+                {
+                    "id": "1-14-1",
+                    "name": "Encryption",
+                    "label": "Encryption",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 1,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-14-2",
+                    "name": "Security",
+                    "label": "Security",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 2,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-14-3",
+                    "name": "Society",
+                    "label": "Society",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 3,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-14-4",
+                    "name": "Cloud security",
+                    "label": "Cloud security",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 4,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-14-5",
+                    "name": "Code review",
+                    "label": "Code review",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 5,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-14-6",
+                    "name": "Mobile security",
+                    "label": "Mobile security",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 6,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                },
+                {
+                    "id": "1-14-10",
+                    "name": "Other",
+                    "label": "Other",
+                    "parentid": "1-14",
+                    "isshow": "1",
+                    "orderby": 10,
+                    "isleaf": "1",
+                    "subCategoryList": []
+                }
+            ]
+        }
+    ]
+}
